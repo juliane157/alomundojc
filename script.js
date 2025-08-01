@@ -6,3 +6,7 @@ let nomeUsuario = prompt("Qual o seu nome");
 }
 
  const lista=Document.querySelector('Wlista');
+
+ lista.textContent=linguagens(0)
+ lista.textContent=linguagens(1)
+ lista.textContent=linguagens(2)
