@@ -16,3 +16,8 @@ let nomeUsuario = prompt("Qual o seu nome");
      anoletivo:'terceiroensinomédio',
      Materiasfavoritas:['Português']
  }
+
+ console.log(aluno1.nome)
+ console.log(aluno1.nome)
+ console.log(aluno1.materiasFavoritas)
+ console.log(aluno1.materiasFavoritas[1])
